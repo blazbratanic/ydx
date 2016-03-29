@@ -1,0 +1,8 @@
+algorithm complexity
+cache misses
+cpu-bound
+memory bandwidth
+i/o or network bound
+context switches
+too many copies
+dereferencing
